@@ -197,6 +197,7 @@ ul {
     color: white;
     width: 600px;
     padding: 46px 0 18px;
+    
 }
 
 .s-hero p {
@@ -206,7 +207,9 @@ ul {
     padding-bottom: 36px;
     color:black;
 }
-
+a{
+    color: white;
+}
 
 .s-hero button {
     background: #ffca1d;
