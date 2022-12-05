@@ -189,6 +189,7 @@ ul {
     line-height: 160.4%;
 }
 
+
 .s-hero h1 {
     font-weight: 800;
     font-size: 50px;
@@ -203,6 +204,7 @@ ul {
     font-size: 24px;
     line-height: 160.4%;
     padding-bottom: 36px;
+    color:black;
 }
 
 .s-hero button {
