@@ -211,6 +211,10 @@ a{
     color: white;
 }
 
+a:hover{
+    text-decoration: underline;
+}
+
 .s-hero button {
     background: #ffca1d;
     font-style: normal;
